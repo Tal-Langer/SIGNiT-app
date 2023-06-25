@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "c:\Users\Tal\Desktop\Tal\Study\Study\finalProject\SIGNiT\GUI\UI.py", line 5, in <module>
+    import MainFrame, ActionFrame
+  File "c:\Users\Tal\Desktop\Tal\Study\Study\finalProject\SIGNiT\GUI\MainFrame.py", line 6, in <module>
+    from GUI.Controllers import TextController
+ModuleNotFoundError: No module named 'GUI'
